@@ -9,5 +9,5 @@ $ git clone https://github.com/rhaby/FMBrhaby
 $ cd FMBrhaby
 $ python fmbrhaby.py
 ```
-#Telegarm | @rhaby
-#insta | iqk56
+#Telegarm | @ciku370
+#insta | ali.rhaby
