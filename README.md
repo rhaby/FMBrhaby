@@ -2,8 +2,10 @@
 
 ## Installation and Usage
 ```bash
-$ apt-get update && apt-get upgrade
-$ apt-get install python git
+$ apt update 
+$ apt upgrade
+$ pkg install python 
+$ pkg install git
 $ pip install requests
 $ git clone https://github.com/rhaby/FMBrhaby
 $ cd FMBrhaby
