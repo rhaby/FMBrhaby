@@ -12,4 +12,4 @@ $ cd FMBrhaby
 $ python fmbrhaby.py
 ```
 #Telegarm | @ciku370
-#insta | ali.rhaby
+#Telegarm | @rhaby
